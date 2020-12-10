@@ -535,15 +535,6 @@ body {
 
 </HEAD> 
 <BODY onload="load()">	Fps:	 <SPAN id="fps"></SPAN>	 
-<!-- <BR>click mouse to 
-enable/disable the advancer shader program
-<P>
-Fine-tuned 8Bit Reaction-Diffusion system with added traveling wave fronts 
-and subpixel decay.<BR>	
-Using the gradients of the generative texture for a 
-displacement mapping of a light source.
-<BR>There are two color channels 
-completely unused in this technical demonstration.
- -->
+
 <CANVAS id="c"></CANVAS> 
 </BODY></HTML>
